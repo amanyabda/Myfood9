@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">اكلات منوعةوطبخ</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav_drawer">اكلات منوعةوطبخ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">خروج</string>
+    <string name="action_sharing">مشاركة التطبيق</string>
+
+    <string name="menu_home">الاطباق الرئيسية</string>
+    <string name="menu_gallery">اطباقي المفضلة</string>
+    <string name="menu_slideshow">المعجنات</string>
+    <string name="menu_tools">الاعدادات</string>
+    <string name="menu_share">سياسة الخصوصية</string>
+
+
+    <string name="cubcake">
+        المقادير:
+6 x عدد جبنة كيري (لكريمة الحشو)
+2 x معلقة كبيرة سكر
+1 x كوب حليب كامل الدسم (لكريمة الحشو)
+1 x كوب كريمة مخفوقة (لكريمة الحشو)
+1 x عدد حليب مكثف (لكريمة الحشو)
+1 x معلقة كبيرة نشا (لكريمة الحشو)
+½ x كوب سكر (لكريمة الحشو)
+½ x كوب زبدة (سايحة)
+½ x كيلو كنافة
+¼ x كوب لبن بودرة (لكريمة الحشو)
+
+
+
+الخطوات:
+
+نبدأ عمل كريمة الحشو نضع الحليب واللبن البودرة والسكر و كوب الكريمة ومعلقة النشا وندوب الخليط ونرفعه علي نار هادئة لغاية ما يتماسك وبعد ما نطفي النار نضيف مكعبات الجبنة ونقلب لغاية ما تدوب.
+في الكبة نضرب الكنافة و معلقتين السكر والزبدة زي التشيز كيك.
+في قالب الكب كيك نضع قليل من الكنافة ونضغط عليها كويس جدا ونتاكد انها غطت الجوانب كمان.
+ناخد مقدار ملعقة من كريمة الحشو ونضعها في منتصف الكنافة ونغطيها بمقدار كنافة تانية ونقفلها.
+نكمل مقدار الكنافة كلها وندخلها الفرن علي درجة 200 لغاية ما لونها يحمر.
+نخرج الكنافة وهي ساخنة نسقيها بالحليب المكثف مقدار ملعقة كبيرة ونستني لما تتشربه الكنافة.
+نخرج الكنافة من قوالب الكب كيك علي الوجه التاني ونسقيها كمان مرة بالحليب المكثف وبالهنا والشفا.</string>
+
+
+    <string name="cubcakee">كب كيك</string>
+    <string name="samosa">عجينة السمبوسك</string>
+    <string name="macrona">مكرونة بشاميل</string>
+    <string name="banana"> تارت الموز</string>
+    <string name="search">ابحث هنا</string>
+    <string name="title_activity_m">M</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="#fff"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/food_image"
+            android:layout_width="400dp"
+            android:layout_height="200dp"
+            android:layout_margin="6dp"
+            tools:srcCompat="@tools:sample/avatars[0]" />
+
+        <LinearLayout
+            android:layout_below="@+id/food_image"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+        <TextView
+            android:layout_weight="9"
+            android:id="@+id/food_name"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="TextView"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/fav"
+                app:srcCompat="@drawable/ic_favorite_black_24dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent" />
+
+
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
+
+

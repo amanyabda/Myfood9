@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/restaurant"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_Dashboard"
+            android:icon="@drawable/burger"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/groceries"
+            android:title="@string/menu_slideshow" />
+<item
+            android:id="@+id/nav_home1"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="تقييم التطبيق" />
+        <item
+            android:id="@+id/nav_Dashboard2"
+            android:icon="@drawable/ic_attachment_black_24dp"
+            android:title="خروج" />
+
+    </group>
+
+
+</menu>
